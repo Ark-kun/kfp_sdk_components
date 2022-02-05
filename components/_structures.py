@@ -27,6 +27,8 @@ __all__ = [
     'ContainerSpec',
     'ContainerImplementation',
 
+    'MetadataSpec',
+
     'ComponentSpec',
 
     'ComponentReference',
